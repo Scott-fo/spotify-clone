@@ -1,4 +1,4 @@
-#Spotify Clone
+# Spotify Clone
 
 Tech Stack:
 * NextJS
